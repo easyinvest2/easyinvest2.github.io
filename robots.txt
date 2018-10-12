@@ -1,0 +1,969 @@
+<!DOCTYPE html>
+<html class="nojs html css_verticalspacer" lang="ru-RU">
+
+<head>
+
+    <meta http-equiv="Content-type" content="text/html;charset=UTF-8" />
+    <meta name="generator" content="2018.1.0.386" />
+
+    <script type="text/javascript">
+        // Update the 'nojs'/'js' class on the html node
+        document.documentElement.className = document.documentElement.className.replace(/\bnojs\b/g, 'js');
+
+        // Check that all required assets are uploaded and up-to-date
+        if (typeof Muse == "undefined") window.Muse = {};
+        window.Muse.assets = {
+            "required": ["museutils.js", "museconfig.js", "jquery.musepolyfill.bgsize.js", "jquery.watch.js", "webpro.js", "musewpslideshow.js", "jquery.museoverlay.js", "touchswipe.js", "musewpdisclosure.js", "require.js", "index.css"],
+            "outOfDate": []
+        };
+    </script>
+
+    <title>HOMAINVEST | 3.25% - 4.50% ETH</title>
+    <!-- CSS -->
+    <link rel="stylesheet" type="text/css" href="css/site_global.css?crc=191382019" />
+    <link rel="stylesheet" type="text/css" href="css/master_invest.css?crc=33643212" />
+    <link rel="stylesheet" type="text/css" href="css/index.css?crc=239814195" id="pagesheet" />
+    <!--/*
+
+*/
+-->
+</head>
+
+<body>
+
+    <div class="clearfix" id="page">
+        <!-- column -->
+        <div class="position_content" id="page_position_content">
+            <div class="clearfix colelem" id="pu5562-4">
+                <!-- group -->
+                <div class="clearfix grpelem" id="u5562-4">
+                    <!-- content -->
+                    <p>Главная</p>
+                </div>
+                <a class="nonblock nontext anim_swing clearfix grpelem" id="u5557-4" href="index.html#go">
+                    <!-- content -->
+                    <p>Участвовать</p>
+                </a>
+                <a class="nonblock nontext anim_swing clearfix grpelem" id="u5559-4" href="index.html#stat">
+                    <!-- content -->
+                    <p>Состояние</p>
+                </a>
+                <div class="museBGSize grpelem" id="u5561">
+                    <!-- simple frame -->
+                </div>
+                <a class="nonblock nontext anim_swing clearfix grpelem" id="u5558-4" href="index.html#faq">
+                    <!-- content -->
+                    <p>FAQ</p>
+                </a>
+                <a class="nonblock nontext anim_swing clearfix grpelem" id="u5560-4" href="index.html#cont">
+                    <!-- content -->
+                    <p>Поддержка 24/7</p>
+                </a>
+                <a class="nonblock nontext museBGSize grpelem" id="u5556" href="https://cryptohoma.com">
+                    <!-- simple frame -->
+                </a>
+                <a class="nonblock nontext museBGSize grpelem" id="u5563" href="https://cryptohoma.com/eng/index.html">
+                    <!-- simple frame -->
+                </a>
+            </div>
+            <div class="clearfix colelem" id="pu5603">
+                <!-- group -->
+                <div class="browser_width grpelem" id="u5603-bw">
+                    <div class="gradient" id="u5603">
+                        <!-- simple frame -->
+                    </div>
+                </div>
+                <div class="browser_width grpelem" id="u5604-bw">
+                    <div id="u5604">
+                        <!-- column -->
+                        <div class="clearfix" id="u5604_align_to_page">
+                            <div class="clearfix colelem" id="u5606-5">
+                                <!-- content -->
+                                <p>HOMA<span id="u5606-2">INVEST</span></p>
+                            </div>
+                            <div class="clearfix colelem" id="u6195-4">
+                                <!-- content -->
+                                <p>3.25% - 4.50% В СУТКИ</p>
+                            </div>
+                            <div class="clearfix colelem" id="u5605-6">
+                                <!-- content -->
+                                <p>Фонд по распределению криптовалюты ETH</p>
+                                <p>с открытым кодом!</p>
+                            </div>
+                            <div class="clearfix colelem" id="pu5669">
+                                <!-- group -->
+                                <div class="rounded-corners grpelem" id="u5669">
+                                    <!-- simple frame -->
+                                </div>
+                                <div class="rounded-corners grpelem" id="u5693">
+                                    <!-- simple frame -->
+                                </div>
+                                <div class="rounded-corners grpelem" id="u5699">
+                                    <!-- simple frame -->
+                                </div>
+                                <div class="rounded-corners grpelem" id="u5705">
+                                    <!-- simple frame -->
+                                </div>
+                            </div>
+                            <div class="clearfix colelem" id="pu5690-6">
+                                <!-- group -->
+                                <div class="clearfix grpelem" id="u5690-6">
+                                    <!-- content -->
+                                    <p>Пожизненные</p>
+                                    <p>выплаты</p>
+                                </div>
+                                <div class="clearfix grpelem" id="u5694-4">
+                                    <!-- content -->
+                                    <p>Революционная надёжность</p>
+                                </div>
+                                <div class="clearfix grpelem" id="u5700-6">
+                                    <!-- content -->
+                                    <p>Минимальный</p>
+                                    <p>вклад 0.01 ETH</p>
+                                </div>
+                                <div class="clearfix grpelem" id="u5706-6">
+                                    <!-- content -->
+                                    <p>Валюта вклада</p>
+                                    <p>и выплаты - ETH</p>
+                                </div>
+                            </div>
+                            <a class="nonblock nontext anim_swing shadow rounded-corners clearfix colelem" id="u5607" href="index.html#go">
+                                <!-- group -->
+                                <div class="rounded-corners grpelem" id="u5608">
+                                    <!-- simple frame -->
+                                </div>
+                                <div class="clearfix grpelem" id="u5609-4">
+                                    <!-- content -->
+                                    <p>участвовать</p>
+                                </div>
+                            </a>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="browser_width colelem" id="u5736-bw">
+                <div id="u5736">
+                    <!-- column -->
+                    <div class="clearfix" id="u5736_align_to_page">
+                        <div class="position_content" id="u5736_position_content">
+                            <div class="clearfix colelem" id="u5651-4">
+                                <!-- content -->
+                                <p id="u5651-2">О фонде</p>
+                            </div>
+                            <div class="clearfix colelem" id="u5739-6">
+                                <!-- content -->
+                                <p>Технология смарт-контракта открыла человечеству возможность построения доверительных отношений без привлечения третьей стороны. Это даёт новые, немыслимые ранее возможности в области финансов. Наша автоматизированная модель
+                                    по распределению криптовалюты ETH прописана в смарт-контракте и загружена в блокчейн Ethereum с активированной функцией <br/>“отказ от владения” и теперь никто не сможет повлиять на его вечную автономную работу.</p>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <a class="anchor_item colelem" id="stat"></a>
+            <div class="browser_width colelem" id="u6207-bw">
+                <div class="museBGSize" id="u6207">
+                    <!-- column -->
+                    <div class="clearfix" id="u6207_align_to_page">
+                        <div class="clearfix colelem" id="u5753-4">
+                            <!-- content -->
+                            <p>Текущее состояние фонда</p>
+                        </div>
+                        <div class="colelem" id="u5754">
+                            <!-- simple frame -->
+                        </div>
+                        <div class="My clearfix colelem" id="u5755-5">
+                            <!-- content -->
+                            <p id="u5755-3"><a class="nonblock" href="https://etherscan.io/address/0xbd5b1ee23b193bf1e8d41adf67abde9023726c93" target="_blank">0xbd5b1ee23B193Bf1E8D41Adf67abDe9023726C93</a></p>
+                        </div>
+                        <div class="clearfix colelem" id="pu6903">
+                            <!-- group -->
+                            <div class="museBGSize grpelem" id="u6903">
+                                <!-- simple frame -->
+                            </div>
+                            <div class="museBGSize grpelem" id="u6917">
+                                <!-- simple frame -->
+                            </div>
+                            <div class="museBGSize grpelem" id="u6920">
+                                <!-- simple frame -->
+                            </div>
+                        </div>
+                        <div class="clearfix colelem" id="pu6950-4">
+                            <!-- group -->
+                            <div class="clearfix grpelem" id="u6950-4">
+                                <!-- content -->
+                                <p><span id="u6950">30.1198</span></p>
+                            </div>
+                            <div class="clearfix grpelem" id="u6939-4">
+                                <!-- content -->
+                                <p><span id="u6939">6751.99</span></p>
+                            </div>
+                            <div class="clearfix grpelem" id="u6953-4">
+                                <!-- content -->
+                                <p><span id="u6953">94</span></p>
+                            </div>
+                        </div>
+                        <div class="clearfix colelem" id="pu6956-4">
+                            <!-- group -->
+                            <div class="clearfix grpelem" id="u6956-4">
+                                <!-- content -->
+                                <p>ETH</p>
+                            </div>
+                            <div class="clearfix grpelem" id="u6959-4">
+                                <!-- content -->
+                                <p>USD</p>
+                            </div>
+                            <div class="clearfix grpelem" id="u6962-4">
+                                <!-- content -->
+                                <p>вкладчиков</p>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="browser_width colelem" id="u5866-bw">
+                <div id="u5866">
+                    <!-- simple frame -->
+                </div>
+            </div>
+            <div class="browser_width colelem" id="u6297-bw">
+                <div id="u6297">
+                    <!-- column -->
+                    <div class="clearfix" id="u6297_align_to_page">
+                        <div class="clearfix colelem" id="u6303-4">
+                            <!-- content -->
+                            <p>Распределение вложений</p>
+                        </div>
+                        <div class="colelem" id="u6304">
+                            <!-- simple frame -->
+                        </div>
+                        <div class="My clearfix colelem" id="u6305-6">
+                            <!-- content -->
+                            <p id="u6305-4">Вся информация находится в открытом доступе на <a class="nonblock" href="https://etherscan.io/address/0xbd5b1ee23b193bf1e8d41adf67abde9023726c93" target="_blank">etherscan.io</a></p>
+                        </div>
+                        <div class="clearfix colelem" id="u6306">
+                            <!-- group -->
+                            <div class="museBGSize rounded-corners grpelem" id="u6312">
+                                <!-- simple frame -->
+                            </div>
+                        </div>
+                        <div class="clearfix colelem" id="u7367-7">
+                            <!-- content -->
+                            <p id="u7367-5"><span id="u7367">10%</span><span id="u7367-3"><br/></span><span id="u7367-4">Рекламный бюджет</span></p>
+                        </div>
+                        <div class="rounded-corners My clearfix colelem" id="u6382-14">
+                            <!-- content -->
+                            <p id="u6382-12"><span id="u6382">Для осуществления вклада в проект достаточно перечислить минимум 0.01 ETH с вашего ETH кошелька</span><span class="superscript" id="u6382-2">*</span><span id="u6382-3"> на </span><a class="nonblock" href="https://etherscan.io/address/0xbd5b1ee23b193bf1e8d41adf67abde9023726c93"
+                                    target="_blank"><span id="u6382-4">адрес смарт-контракта</span></a><span id="u6382-9"> проекта. Система запомнит адрес кошелька с которого был сделан вклад, и автоматически, каждые 24 часа с момента вклада или с последнего удачного списания накопленного процента, будет производить начисления в ETH вкладчикам, пока в фонде для выплат есть средства. Размер начислений составляет от 3,25% до 4.50% от суммы всех вкладов вкладчика в смарт-контракт.<br/><br/></span>
+                                <span id="u6382-10">*</span><span id="u6382-11">Не допускается перечисления с бирж, только с вашего личного ETH кошелька, от которого у Вас есть приватные ключи.</span></p>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="browser_width colelem" id="u6385-bw">
+                <div id="u6385">
+                    <!-- simple frame -->
+                </div>
+            </div>
+            <div class="clearfix colelem" id="u6391-4">
+                <!-- content -->
+                <p>Как осуществить вклад в проект</p>
+            </div>
+            <div class="colelem" id="u6392">
+                <!-- simple frame -->
+            </div>
+            <div class="clearfix colelem" id="u6393-5">
+                <!-- content -->
+                <p id="u6393-3">Всё очень просто, а если возникнут вопросы спросите у админов в нашем Telegram чате: <span id="u6393-2">@cryptohoma_chat</span></p>
+            </div>
+            <div class="PamphletWidget clearfix colelem" id="pamphletu6524">
+                <!-- none box -->
+                <div class="ThumbGroup clearfix grpelem" id="u6535">
+                    <!-- none box -->
+                    <div class="popup_anchor" id="u6538popup">
+                        <div class="Thumb popup_element clearfix" id="u6538">
+                            <!-- column -->
+                            <div class="clearfix colelem" id="pu6485-4">
+                                <!-- group -->
+                                <div class="clearfix grpelem" id="u6485-4">
+                                    <!-- content -->
+                                    <p>2</p>
+                                </div>
+                                <div class="museBGSize grpelem" id="u6403">
+                                    <!-- simple frame -->
+                                </div>
+                                <div class="clearfix grpelem" id="u6497-6">
+                                    <!-- content -->
+                                    <p>Вложить ETH под <br/>3.25% - 4.50% в день</p>
+                                </div>
+                            </div>
+                            <div class="rounded-corners clearfix colelem" id="u6512-4">
+                                <!-- content -->
+                                <p id="u6512-2"><span id="u6512">ПОДРОБНЕЕ</span></p>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="popup_anchor" id="u6579popup">
+                        <div class="Thumb popup_element clearfix" id="u6579">
+                            <!-- column -->
+                            <div class="position_content" id="u6579_position_content">
+                                <div class="clearfix colelem" id="pu6488-4">
+                                    <!-- group -->
+                                    <div class="clearfix grpelem" id="u6488-4">
+                                        <!-- content -->
+                                        <p>1</p>
+                                    </div>
+                                    <div class="museBGSize grpelem" id="u6453">
+                                        <!-- simple frame -->
+                                    </div>
+                                    <div class="clearfix grpelem" id="u6500-8">
+                                        <!-- content -->
+                                        <p>Зарегистрировать</p>
+                                        <p>и пополнить</p>
+                                        <p>ETH кошелек</p>
+                                    </div>
+                                </div>
+                                <div class="rounded-corners clearfix colelem" id="u6515-4">
+                                    <!-- content -->
+                                    <p id="u6515-2"><span id="u6515">ПОДРОБНЕЕ</span></p>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="popup_anchor" id="u6588popup">
+                        <div class="Thumb popup_element clearfix" id="u6588">
+                            <!-- column -->
+                            <div class="clearfix colelem" id="pu6491-4">
+                                <!-- group -->
+                                <div class="clearfix grpelem" id="u6491-4">
+                                    <!-- content -->
+                                    <p>3</p>
+                                </div>
+                                <div class="museBGSize grpelem" id="u6459">
+                                    <!-- simple frame -->
+                                </div>
+                                <div class="clearfix grpelem" id="u6503-8">
+                                    <!-- content -->
+                                    <p>Проверить</p>
+                                    <p>и отследить</p>
+                                    <p>транзакцию</p>
+                                </div>
+                            </div>
+                            <div class="rounded-corners clearfix colelem" id="u6518-4">
+                                <!-- content -->
+                                <p id="u6518-2"><span id="u6518">ПОДРОБНЕЕ</span></p>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="popup_anchor" id="u6596popup">
+                        <div class="Thumb popup_element clearfix" id="u6596">
+                            <!-- column -->
+                            <div class="clearfix colelem" id="pu6494-4">
+                                <!-- group -->
+                                <div class="clearfix grpelem" id="u6494-4">
+                                    <!-- content -->
+                                    <p>4</p>
+                                </div>
+                                <div class="museBGSize grpelem" id="u6465">
+                                    <!-- simple frame -->
+                                </div>
+                                <div class="clearfix grpelem" id="u6506-8">
+                                    <!-- content -->
+                                    <p>Проверить</p>
+                                    <p>и отследить</p>
+                                    <p>транзакцию</p>
+                                </div>
+                            </div>
+                            <div class="rounded-corners clearfix colelem" id="u6521-4">
+                                <!-- content -->
+                                <p id="u6521-2"><span id="u6521">ПОДРОБНЕЕ</span></p>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div class="popup_anchor" id="u6525popup">
+                    <div class="ContainerGroup clearfix" id="u6525">
+                        <!-- stack box -->
+                        <div class="Container clearfix grpelem" id="u6528">
+                            <!-- column -->
+                            <div class="clearfix colelem" id="pgo">
+                                <!-- group -->
+                                <a class="anchor_item grpelem" id="go"></a>
+                                <div class="clearfix grpelem" id="u6620-4">
+                                    <!-- content -->
+                                    <p>ШАГ 2</p>
+                                </div>
+                            </div>
+                            <div class="clearfix colelem" id="u5969">
+                                <!-- column -->
+                                <div class="position_content" id="u5969_position_content">
+                                    <div class="clearfix colelem" id="u6655-7">
+                                        <!-- content -->
+                                        <p id="u6655-5"><span id="u6655">Адрес смарт-контракта</span><span id="u6655-3"><br/></span><span id="u6655-4">0xbd5b1ee23B193Bf1E8D41Adf67abDe9023726C93</span></p>
+                                    </div>
+                                    <div class="museBGSize colelem" id="u6654">
+                                        <!-- simple frame -->
+                                    </div>
+                                    <div class="clearfix colelem" id="u5988-20">
+                                        <!-- content -->
+                                        <p id="u5988-2">Отправить с ETH кошелька на адрес смарт-контракта любую сумму от 0.01 ETH. Для оплаты транзакции на кошельке дополнительно должно быть мин. 0.002 ETH.</p>
+                                        <p class="My" id="u5988-15"><span id="u5988-3">Рекомендуемый </span><span id="u5988-4">gas limits</span><span id="u5988-5">: 170000, актуальный </span><span id="u5988-6">gas price</span><span id="u5988-9"> можно взять с <br/></span><a class="nonblock"
+                                                href="https://ethgasstation.info" target="_blank"><span id="u5988-10">https://ethgasstation.info</span></a><span id="u5988-14"><br/><br/></span></p>
+                                        <p id="u5988-18"><span class="superscript">*</span>Не допускается перечисления с бирж, только с вашего личного ETH кошелька, от которого у Вас есть приватные ключи.</p>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="Container invi clearfix grpelem" id="u6584">
+                            <!-- column -->
+                            <div class="clearfix colelem" id="u6628-4">
+                                <!-- content -->
+                                <p>ШАГ 1</p>
+                            </div>
+                            <div class="clearfix colelem" id="u6641-17">
+                                <!-- content -->
+                                <p class="My" id="u6641-4">Мы рекомендуем для мобильных устройств кошелек <a class="nonblock" href="https://trustwalletapp.com" target="_blank">Trust Wallet</a></p>
+                                <p class="My" id="u6641-9">Так же вы можете использовать другие кошельки, такие как <a class="nonblock" href="https://www.myetherwallet.com" target="_blank">MyEtherWallet</a>.</p>
+                                <p class="My" id="u6641-14">Криптовалюту ETH Вы можете приобрести на сайте <a class="nonblock" href="https://www.bestchange.ru" target="_blank">Bestchange.com</a></p>
+                                <p>&nbsp;</p>
+                            </div>
+                        </div>
+                        <div class="Container invi clearfix grpelem" id="u6592">
+                            <!-- column -->
+                            <div class="clearfix colelem" id="u6632-4">
+                                <!-- content -->
+                                <p>ШАГ 3</p>
+                            </div>
+                            <div class="clearfix colelem" id="u6660-12">
+                                <!-- content -->
+                                <p id="u6660-2">Проверить успешность выполнения транзакции</p>
+                                <p id="u6660-4">в истории вашего приложения</p>
+                                <p class="My" id="u6660-9">либо на <a class="nonblock" href="https://etherscan.io" target="_blank">etherscan.io</a> указав адрес своего кошелька.</p>
+                                <p>&nbsp;</p>
+                            </div>
+                        </div>
+                        <div class="Container invi clearfix grpelem" id="u6600">
+                            <!-- column -->
+                            <div class="clearfix colelem" id="u6635-4">
+                                <!-- content -->
+                                <p>ШАГ 4</p>
+                            </div>
+                            <div class="clearfix colelem" id="u6663-33">
+                                <!-- content -->
+                                <p id="u6663-2">Начисление вашего процента происходит через 24 часа, с момента последнего вашего успешного</p>
+                                <p id="u6663-4">пополнения счета, либо успешного списания вами накопленного процента.</p>
+                                <p class="My" id="u6663-9">Вы можете получить выплату в любое время отправив 0 ETH на <a class="nonblock" href="https://etherscan.io/address/0xbd5b1ee23b193bf1e8d41adf67abde9023726c93" target="_blank">адрес смарт-контракта</a>.</p>
+                                <p class="My" id="u6663-17">Рекомендуемый <span id="u6663-11">gas limits</span>: 200000, актуальный <span id="u6663-13">gas price</span> можно взять с <a class="nonblock" href="https://ethgasstation.info" target="_blank">https://ethgasstation.info</a></p>
+                                <p class="My" id="u6663-24">Проверить выплаты можно на сайте <a class="nonblock" href="https://etherscan.io" target="_blank">etherscan.io</a> во вкладке “<span id="u6663-22">Internal Txns</span>” вашего кошелька.</p>
+                                <p id="u6663-25">&nbsp;</p>
+                                <p id="u6663-27">Для реинвестирования Вам нужно сначала снять накопленный процент вклада</p>
+                                <p id="u6663-29">(отправив 0 ЕТН на адрес смарт-контракта), и только потом сделать реинвест.</p>
+                                <p id="u6663-30">&nbsp;</p>
+                                <p>&nbsp;</p>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="browser_width colelem" id="u6678-bw">
+                <div id="u6678">
+                    <!-- simple frame -->
+                </div>
+            </div>
+            <a class="anchor_item colelem" id="faq"></a>
+            <div class="clearfix colelem" id="u6005-4">
+                <!-- content -->
+                <p>FAQ</p>
+            </div>
+            <div class="colelem" id="u6006">
+                <!-- simple frame -->
+            </div>
+            <div class="clearfix colelem" id="u6007-4">
+                <!-- content -->
+                <p id="u6007-2">Популярные вопросы от пользователей проекта!</p>
+            </div>
+            <ul class="AccordionWidget clearfix colelem" id="accordionu6014">
+                <!-- vertical box -->
+                <li class="AccordionPanel clearfix colelem" id="u6019">
+                    <!-- vertical box -->
+                    <div class="AccordionPanelTab gradient clearfix colelem" id="u6022-4">
+                        <!-- content -->
+                        <p id="u6022-2">Насколько это безопасно?</p>
+                    </div>
+                    <div class="AccordionPanelContent disn clearfix colelem" id="u6020">
+                        <!-- group -->
+                        <div class="clearfix grpelem" id="u6021-12">
+                            <!-- content -->
+                            <p id="u6021-2">Смарт-контракт, по алгоритму которого работает проект, загружен в блокчейн Ethereum</p>
+                            <p id="u6021-4">с активированной функцией &quot;отказ от владения&quot;. Это означает, что никто больше</p>
+                            <p id="u6021-6">не имеет к нему доступа с возможностью влиять на его автономную работу.</p>
+                            <p id="u6021-9">Тем не менее, не вкладывайте в проект последние и заёмные средства<span id="u6021-8">.</span></p>
+                            <p id="u6021-10">&nbsp;</p>
+                        </div>
+                    </div>
+                </li>
+                <li class="AccordionPanel clearfix colelem" id="u6027">
+                    <!-- vertical box -->
+                    <div class="AccordionPanelTab gradient clearfix colelem" id="u6030-4">
+                        <!-- content -->
+                        <p id="u6030-2">Почему именно наш проект?</p>
+                    </div>
+                    <div class="AccordionPanelContent clearfix colelem" id="u6028">
+                        <!-- group -->
+                        <div class="My clearfix grpelem" id="u6029-7">
+                            <!-- content -->
+                            <p id="u6029-5">Наш контракт прошел аудит и не имеет скрытого кода.<br/><a class="nonblock" href="https://etherscan.io/address/0xbd5b1ee23b193bf1e8d41adf67abde9023726c93#code">https://etherscan.io/address/0xbd5b1ee23b193bf1e8d41adf67abde9023726c93#code</a></p>
+                        </div>
+                    </div>
+                </li>
+                <li class="AccordionPanel clearfix colelem" id="u6035">
+                    <!-- vertical box -->
+                    <div class="AccordionPanelTab gradient clearfix colelem" id="u6036-4">
+                        <!-- content -->
+                        <p id="u6036-2">Почему выплаты пожизненные?</p>
+                    </div>
+                    <div class="AccordionPanelContent disn clearfix colelem" id="u6037">
+                        <!-- group -->
+                        <div class="My clearfix grpelem" id="u6038-9">
+                            <!-- content -->
+                            <p id="u6038-2"><span id="u6038">Так прописано в смарт-контракте, никто и ничто не сможет этому помешать, т.к.</span></p>
+                            <p id="u6038-4">в нем активирована функция &quot;отказ от владения&quot;. Выплаты будут продолжаться,</p>
+                            <p id="u6038-6">пока в фонде для выплат есть средства.</p>
+                            <p id="u6038-7">&nbsp;</p>
+                        </div>
+                    </div>
+                </li>
+                <li class="AccordionPanel clearfix colelem" id="u6015">
+                    <!-- vertical box -->
+                    <div class="AccordionPanelTab gradient clearfix colelem" id="u6018-4">
+                        <!-- content -->
+                        <p id="u6018-2">Что будет с проектом, если сайт перестанет работать?</p>
+                    </div>
+                    <div class="AccordionPanelContent disn clearfix colelem" id="u6016">
+                        <!-- group -->
+                        <div class="clearfix grpelem" id="u6017-7">
+                            <!-- content -->
+                            <p id="u6017-2">Сайт несёт больше информационную функцию, если по какой-либо причине он перестанет</p>
+                            <p id="u6017-4">работать, это никак не повлияет на ежедневную выплату процентов и приём вкладов.</p>
+                            <p id="u6017-5">&nbsp;</p>
+                        </div>
+                    </div>
+                </li>
+                <li class="AccordionPanel clearfix colelem" id="u6039">
+                    <!-- vertical box -->
+                    <div class="AccordionPanelTab gradient clearfix colelem" id="u6040-4">
+                        <!-- content -->
+                        <p id="u6040-2">Что будет с проектом, если его разработчики пропадут?</p>
+                    </div>
+                    <div class="AccordionPanelContent disn clearfix colelem" id="u6041">
+                        <!-- group -->
+                        <div class="clearfix grpelem" id="u6042-7">
+                            <!-- content -->
+                            <p id="u6042-2">Проект уже изначально полностью автономный и живет в сети, разработчики больше</p>
+                            <p id="u6042-4">никак не смогут на него повлиять.</p>
+                            <p id="u6042-5">&nbsp;</p>
+                        </div>
+                    </div>
+                </li>
+                <li class="AccordionPanel clearfix colelem" id="u6031">
+                    <!-- vertical box -->
+                    <div class="AccordionPanelTab gradient clearfix colelem" id="u6032-4">
+                        <!-- content -->
+                        <p id="u6032-2">Есть ли реферальная программа?</p>
+                    </div>
+                    <div class="AccordionPanelContent disn clearfix colelem" id="u6033">
+                        <!-- group -->
+                        <div class="clearfix grpelem" id="u6034-4">
+                            <!-- content -->
+                            <p id="u6034-2">У нас нет реферальной программы, так как % выплаты идёт с общего банка, это негативно влияет на контракт в целом.</p>
+                        </div>
+                    </div>
+                </li>
+            </ul>
+            <div class="browser_width colelem" id="u6687-bw">
+                <div id="u6687">
+                    <!-- simple frame -->
+                </div>
+            </div>
+            <a class="anchor_item colelem" id="cont"></a>
+            <div class="clearfix colelem" id="u6774">
+                <!-- column -->
+                <div class="position_content" id="u6774_position_content">
+                    <div class="clearfix colelem" id="u6690-4">
+                        <!-- content -->
+                        <p>Поддержка</p>
+                    </div>
+                    <div class="colelem" id="u6691">
+                        <!-- simple frame -->
+                    </div>
+                    <div class="clearfix colelem" id="u6692-4">
+                        <!-- content -->
+                        <p id="u6692-2">Популярные вопросы от пользователей проекта!</p>
+                    </div>
+                    <div class="clearfix colelem" id="ppu6789">
+                        <!-- group -->
+                        <div class="clearfix grpelem" id="pu6789">
+                            <!-- column -->
+                            <div class="clearfix colelem" id="u6789">
+                                <!-- group -->
+                                <div class="museBGSize grpelem" id="u6803">
+                                    <!-- simple frame -->
+                                </div>
+                            </div>
+                            <div class="clearfix colelem" id="u6806">
+                                <!-- group -->
+                                <div class="museBGSize grpelem" id="u6808">
+                                    <!-- simple frame -->
+                                </div>
+                            </div>
+                            <div class="clearfix colelem" id="u6815">
+                                <!-- group -->
+                                <div class="museBGSize grpelem" id="u6817">
+                                    <!-- simple frame -->
+                                </div>
+                            </div>
+                        </div>
+                        <div class="clearfix grpelem" id="pu6800-4">
+                            <!-- column -->
+                            <div class="clearfix colelem" id="u6800-4">
+                                <!-- content -->
+                                <p>@cryptohoma_chat</p>
+                            </div>
+                            <div class="clearfix colelem" id="u6807-4">
+                                <!-- content -->
+                                <p>@cryptohoma_chateng</p>
+                            </div>
+                            <div class="clearfix colelem" id="u6816-4">
+                                <!-- content -->
+                                <p>@cryptohoma_chatkor</p>
+                            </div>
+                        </div>
+                        <div class="Button rounded-corners clearfix grpelem" id="buttonu6702" title="bitrix24 'Форма (Индивидуальный расчёт)'">
+                            <!-- container box -->
+                            <form class="form-grp clearfix grpelem" id="widgetu6703" method="post" enctype="multipart/form-data" action="scripts/form-u6703.php">
+                                <!-- none box -->
+                                <div class="fld-grp clearfix grpelem" id="widgetu6712" data-required="false">
+                                    <!-- none box -->
+                                    <label class="fld-label actAsDiv clearfix grpelem" id="u6713-4" title="b24_NAME" for="widgetu6712_input"><!-- content --><span class="actAsPara">Имя:</span></label>
+                                    <span class="fld-input NoWrap actAsDiv rounded-corners clearfix grpelem" id="u6714-3"><!-- content --><input class="wrapped-input" type="text" spellcheck="false" id="widgetu6712_input" name="custom_U6712" tabindex="1"/></span>
+                                </div>
+                                <div class="fld-grp clearfix grpelem" id="widgetu6706" data-required="false" data-type="email">
+                                    <!-- none box -->
+                                    <label class="fld-label actAsDiv clearfix grpelem" id="u6708-4" title="b24_EMAIL_WORK" for="widgetu6706_input"><!-- content --><span class="actAsPara">Электронная почта:</span></label>
+                                    <span class="fld-input NoWrap actAsDiv rounded-corners clearfix grpelem" id="u6709-3"><!-- content --><input class="wrapped-input" type="email" spellcheck="false" id="widgetu6706_input" name="Email" tabindex="2"/></span>
+                                </div>
+                                <div class="clearfix grpelem" id="u6705-4">
+                                    <!-- content -->
+                                    <p>Отправка формы…</p>
+                                </div>
+                                <div class="clearfix grpelem" id="u6704-4">
+                                    <!-- content -->
+                                    <p>На сервере произошла ошибка.</p>
+                                </div>
+                                <div class="clearfix grpelem" id="u6710-4">
+                                    <!-- content -->
+                                    <p>Форма получена.</p>
+                                </div>
+                                <button class="submit-btn NoWrap gradient rounded-corners clearfix grpelem" id="u6711-4" type="submit" value="Отправить" tabindex="4"><!-- content -->
+          <div style="margin-top:-17px;height:17px;">
+           <p>Отправить</p>
+          </div>
+         </button>
+                                <div class="fld-grp clearfix grpelem" id="widgetu6759" data-required="true">
+                                    <!-- none box -->
+                                    <label class="fld-label actAsDiv clearfix grpelem" id="u6761-4" title="b24_EMAIL_WORK" for="widgetu6759_input"><!-- content --><span class="actAsPara">Сообщение:</span></label>
+                                    <span class="fld-textarea actAsDiv rounded-corners clearfix grpelem" id="u6760-3"><!-- content --><textarea class="wrapped-input" id="widgetu6759_input" name="custom_U6759" tabindex="3"></textarea></span>
+                                </div>
+                            </form>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="browser_width colelem" id="u6846-bw">
+                <div id="u6846">
+                    <!-- simple frame -->
+                </div>
+            </div>
+            <div class="clearfix colelem" id="u6849-4">
+                <!-- content -->
+                <p>наши сообщества</p>
+            </div>
+            <div class="colelem" id="u6850">
+                <!-- simple frame -->
+            </div>
+            <div class="clearfix colelem" id="u6851-4">
+                <!-- content -->
+                <p id="u6851-2">Мы всегда рядом!</p>
+            </div>
+            <div class="clearfix colelem" id="pu6857">
+                <!-- group -->
+                <a class="nonblock nontext museBGSize rounded-corners grpelem" id="u6857" href="https://web.telegram.org/#/im?p=@cryptohoma_chat" target="_blank">
+                    <!-- simple frame -->
+                </a>
+                <a class="nonblock nontext museBGSize rounded-corners grpelem" id="u6858" href="https://twitter.com/cryptohoma" target="_blank">
+                    <!-- simple frame -->
+                </a>
+                <a class="nonblock nontext museBGSize rounded-corners grpelem" id="u6859" href="https://plus.google.com/communities/102896841182920321982?sqinv=c2pHNXJSY2pHYlZodTl2M1h1c3NrWU5PeWdiVkh3" target="_blank">
+                    <!-- simple frame -->
+                </a>
+                <a class="nonblock nontext museBGSize rounded-corners grpelem" id="u6860" href="https://www.facebook.com/cryptohoma/" target="_blank">
+                    <!-- simple frame -->
+                </a>
+                <a class="nonblock nontext museBGSize rounded-corners grpelem" id="u6861" href="https://vk.com/cryptohoma" target="_blank">
+                    <!-- simple frame -->
+                </a>
+            </div>
+            <div class="clearfix colelem" id="pu6852-6">
+                <!-- group -->
+                <div class="clearfix grpelem" id="u6852-6">
+                    <!-- content -->
+                    <p>Telegram</p>
+                    <p id="u6852-4">Комьюнити</p>
+                </div>
+                <div class="clearfix grpelem" id="u6856-6">
+                    <!-- content -->
+                    <p>Блог HOMA</p>
+                    <p id="u6856-4">Twitter</p>
+                </div>
+                <div class="clearfix grpelem" id="u6853-6">
+                    <!-- content -->
+                    <p>Блог HOMA</p>
+                    <p id="u6853-4">Google+</p>
+                </div>
+                <div class="clearfix grpelem" id="u6854-6">
+                    <!-- content -->
+                    <p>Группа HOMA</p>
+                    <p id="u6854-4">Faceebok</p>
+                </div>
+                <div class="clearfix grpelem" id="u6855-6">
+                    <!-- content -->
+                    <p>Группа HOMA</p>
+                    <p id="u6855-4">Vkontakte</p>
+                </div>
+            </div>
+            <div class="verticalspacer" data-offset-top="6478" data-content-above-spacer="6478" data-content-below-spacer="61"></div>
+        </div>
+    </div>
+    <!-- Other scripts -->
+    <script type="text/javascript">
+        function get_ethscan_balance() {
+            // 1. Создаём новый объект XMLHttpRequest
+            var xhr = new XMLHttpRequest();
+            // 2. Конфигурируем его: GET-запрос на URL 'phones.json'
+            var url = 'https://api.etherscan.io/api?module=account&action=balance&address=0xbd5b1ee23B193Bf1E8D41Adf67abDe9023726C93&tag=latest&apikey=2VBRTUTKV972M31W7KVVSU2VCSPCWD6YK6'
+            xhr.open('GET', url, false);
+
+            // 3. Отсылаем запрос
+            xhr.send();
+
+            return xhr
+        }
+
+        var xhr = get_ethscan_balance()
+
+        if (xhr.status == 200) {
+            // вывести результат
+            var res = xhr.responseText;
+            // Делаем JSON объект из строки
+            var jsn = JSON.parse(res);
+            // 1 эфир
+            var ether = Math.pow(10, 18);
+
+            var result = Number(jsn['result']) / ether;
+            // Получаем тег куда вставлять результат
+            // var r = $("span#u6950").text(); // String(result)
+            balance_span = document.getElementById('u6950').innerHTML = String(result).substr(0, 7);
+
+            // responseText -- текст ответа.
+            // {"status":"1","message":"OK","result":"31795898684224834368"}
+            // 31.039898684224834368
+            // 31795898684224834368
+        }
+
+        function get_data(url) {
+            // 1. Создаём новый объект XMLHttpRequest
+            var xhr = new XMLHttpRequest();
+            // 2. Конфигурируем его: GET-запрос на URL 'phones.json'
+            xhr.open('GET', url, false);
+
+            // 3. Отсылаем запрос
+            xhr.send();
+
+            return xhr
+        }
+
+        function view_data() {
+            var url = 'https://api.etherscan.io/api?module=account&action=balance&address=0xbd5b1ee23B193Bf1E8D41Adf67abDe9023726C93&tag=latest&apikey=2VBRTUTKV972M31W7KVVSU2VCSPCWD6YK6';
+            var url_eth = 'https://api.coinmarketcap.com/v1/ticker/ethereum/';
+            // 1 эфир
+            var ether = Math.pow(10, 18);
+            var result_eth = 0;
+            var result_usd = 0;
+
+            var xhr = get_data(url);
+
+            if (xhr.status == 200) {
+
+                var res = xhr.responseText;
+                // Делаем JSON объект из строки
+                var jsn = JSON.parse(res);
+
+                result_eth = Number(jsn['result']) / ether;
+
+                document.getElementById('u6950').innerHTML = String(result_eth).substr(0, 7);
+            }
+
+            var xhr_usd = get_data(url_eth);
+
+            if (xhr_usd.status == 200) {
+
+                var res_usd = xhr_usd.responseText;
+                // Делаем JSON объект из строки
+                var jsn_usd = JSON.parse(res_usd);
+
+                result_usd = result_eth * Number(jsn_usd[0].price_usd);
+
+                document.getElementById('u6939').innerHTML = String(result_usd).substr(0, 7);
+
+            }
+
+        }
+        view_data();
+
+        // Decide whether to suppress missing file error or not based on preference setting
+        var suppressMissingFileError = false
+    </script>
+    <script type="text/javascript">
+        window.Muse.assets.check = function(c) {
+            if (!window.Muse.assets.checked) {
+                window.Muse.assets.checked = !0;
+                var b = {},
+                    d = function(a, b) {
+                        if (window.getComputedStyle) {
+                            var c = window.getComputedStyle(a, null);
+                            return c && c.getPropertyValue(b) || c && c[b] || ""
+                        }
+                        if (document.documentElement.currentStyle) return (c = a.currentStyle) && c[b] || a.style && a.style[b] || "";
+                        return ""
+                    },
+                    a = function(a) {
+                        if (a.match(/^rgb/)) return a = a.replace(/\s+/g, "").match(/([\d\,]+)/gi)[0].split(","), (parseInt(a[0]) << 16) + (parseInt(a[1]) << 8) + parseInt(a[2]);
+                        if (a.match(/^\#/)) return parseInt(a.substr(1),
+                            16);
+                        return 0
+                    },
+                    f = function(f) {
+                        for (var g = document.getElementsByTagName("link"), j = 0; j < g.length; j++)
+                            if ("text/css" == g[j].type) {
+                                var l = (g[j].href || "").match(/\/?css\/([\w\-]+\.css)\?crc=(\d+)/);
+                                if (!l || !l[1] || !l[2]) break;
+                                b[l[1]] = l[2]
+                            }
+                        g = document.createElement("div");
+                        g.className = "version";
+                        g.style.cssText = "display:none; width:1px; height:1px;";
+                        document.getElementsByTagName("body")[0].appendChild(g);
+                        for (j = 0; j < Muse.assets.required.length;) {
+                            var l = Muse.assets.required[j],
+                                k = l.match(/([\w\-\.]+)\.(\w+)$/),
+                                i = k && k[1] ?
+                                k[1] : null,
+                                k = k && k[2] ? k[2] : null;
+                            switch (k.toLowerCase()) {
+                                case "css":
+                                    i = i.replace(/\W/gi, "_").replace(/^([^a-z])/gi, "_$1");
+                                    g.className += " " + i;
+                                    i = a(d(g, "color"));
+                                    k = a(d(g, "backgroundColor"));
+                                    i != 0 || k != 0 ? (Muse.assets.required.splice(j, 1), "undefined" != typeof b[l] && (i != b[l] >>> 24 || k != (b[l] & 16777215)) && Muse.assets.outOfDate.push(l)) : j++;
+                                    g.className = "version";
+                                    break;
+                                case "js":
+                                    j++;
+                                    break;
+                                default:
+                                    throw Error("Unsupported file type: " + k);
+                            }
+                        }
+                        c ? c().jquery != "1.8.3" && Muse.assets.outOfDate.push("jquery-1.8.3.min.js") : Muse.assets.required.push("jquery-1.8.3.min.js");
+                        g.parentNode.removeChild(g);
+                        if (Muse.assets.outOfDate.length || Muse.assets.required.length) g = "Некоторые файлы на сервере могут отсутствовать или быть некорректными. Очистите кэш-память браузера и повторите попытку. Если проблему не удается устранить, свяжитесь с разработчиками сайта.", f && Muse.assets.outOfDate.length && (g += "\nOut of date: " + Muse.assets.outOfDate.join(",")), f && Muse.assets.required.length && (g += "\nMissing: " + Muse.assets.required.join(",")), suppressMissingFileError ? (g += "\nUse SuppressMissingFileError key in AppPrefs.xml to show missing file error pop up.", console.log(g)) : alert(g)
+                    };
+                location && location.search && location.search.match && location.search.match(/muse_debug/gi) ?
+                    setTimeout(function() {
+                        f(!0)
+                    }, 5E3) : f()
+            }
+        };
+        var muse_init = function() {
+            require.config({
+                baseUrl: ""
+            });
+            require(["jquery", "museutils", "whatinput", "jquery.musepolyfill.bgsize", "jquery.watch", "webpro", "musewpslideshow", "jquery.museoverlay", "touchswipe", "musewpdisclosure"], function(c) {
+                var $ = c;
+                $(document).ready(function() {
+                    try {
+                        window.Muse.assets.check($); /* body */
+                        Muse.Utils.transformMarkupToFixBrowserProblemsPreInit(); /* body */
+                        Muse.Utils.prepHyperlinks(true); /* body */
+                        Muse.Utils.resizeHeight('.browser_width'); /* resize height */
+                        Muse.Utils.requestAnimationFrame(function() {
+                            $('body').addClass('initialized');
+                        }); /* mark body as initialized */
+                        Muse.Utils.makeButtonsVisibleAfterSettingMinWidth(); /* body */
+                        Muse.Utils.initWidget('#pamphletu6524', ['#bp_infinity'], function(elem) {
+                            return new WebPro.Widget.ContentSlideShow(elem, {
+                                contentLayout_runtime: 'stack',
+                                event: 'click',
+                                deactivationEvent: 'none',
+                                autoPlay: false,
+                                displayInterval: 3000,
+                                transitionStyle: 'fading',
+                                transitionDuration: 100,
+                                hideAllContentsFirst: false,
+                                triggersOnTop: false,
+                                shuffle: false,
+                                enableSwipe: true,
+                                resumeAutoplay: true,
+                                resumeAutoplayInterval: 3000,
+                                playOnce: false,
+                                autoActivate_runtime: false,
+                                isResponsive: false
+                            });
+                        }); /* #pamphletu6524 */
+                        Muse.Utils.initWidget('#accordionu6014', ['#bp_infinity'], function(elem) {
+                            return new WebPro.Widget.Accordion(elem, {
+                                canCloseAll: false,
+                                defaultIndex: 1
+                            });
+                        }); /* #accordionu6014 */
+                        Muse.Utils.initWidget('#widgetu6703', ['#bp_infinity'], function(elem) {
+                            return new WebPro.Widget.Form(elem, {
+                                validationEvent: 'submit',
+                                errorStateSensitivity: 'high',
+                                fieldWrapperClass: 'fld-grp',
+                                formSubmittedClass: 'frm-sub-st',
+                                formErrorClass: 'frm-subm-err-st',
+                                formDeliveredClass: 'frm-subm-ok-st',
+                                notEmptyClass: 'non-empty-st',
+                                focusClass: 'focus-st',
+                                invalidClass: 'fld-err-st',
+                                requiredClass: 'fld-err-st',
+                                ajaxSubmit: true
+                            });
+                        }); /* #widgetu6703 */
+                        Muse.Utils.fullPage('#page'); /* 100% height page */
+                        Muse.Utils.showWidgetsWhenReady(); /* body */
+                        Muse.Utils.transformMarkupToFixBrowserProblems(); /* body */
+                    } catch (b) {
+                        if (b && "function" == typeof b.notify ? b.notify() : Muse.Assert.fail("Error calling selector function: " + b), false) throw b;
+                    }
+                })
+            })
+        };
+    </script>
+    <!-- RequireJS script -->
+    <script src="scripts/require.js?crc=7928878" type="text/javascript" async data-main="scripts/museconfig.js?crc=4286661555" onload="if (requirejs) requirejs.onError = function(requireType, requireModule) { if (requireType && requireType.toString && requireType.toString().indexOf && 0 <= requireType.toString().indexOf('#scripterror')) window.Muse.assets.check(); }"
+        onerror="window.Muse.assets.check();"></script>
+</body>
+
+</html>
